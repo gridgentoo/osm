@@ -1,3 +1,6 @@
+Original repositary   
+https://github.com/openservicemesh/osm   
+
 # Open Service Mesh (OSM)
 
 [![build](https://github.com/openservicemesh/osm/workflows/Go/badge.svg)](https://github.com/openservicemesh/osm/actions?query=workflow%3AGo)
